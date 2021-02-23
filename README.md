@@ -25,6 +25,14 @@ with the project open in your editor access the windows end of the directory whe
   `npm install or `yarn to download the dependencies.
 After downloading the dependencies you can use the following commands `yarn start` or `npm start` to start the project.  
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 # Login:
 ![Login](https://user-images.githubusercontent.com/40778725/108787991-c1431100-7555-11eb-81c1-599c46fa8454.png)
