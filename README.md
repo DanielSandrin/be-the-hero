@@ -1,5 +1,11 @@
 Be-The-Hero é uma plataforma para ONG's onde as mesmas podem cadastrar solicitações de ajuda como doação de ração para cachorros entre outras ajudas.
 
+Antes de iniciar a clonagem do projeto é necessário ter instalado em sua máquina as seguintes ferramentas.
+ - [NodeJS](https://nodejs.org/en/) ou [Yarn](https://yarnpkg.com/)
+ - [GitHub](https://git-scm.com/downloads) instalado em sua máquina 
+
+ - Execute o seguinte comando no seu terminal `git clone terminal: https://github.com/DanielSandrin/be-the-hero.git`
+
 1ª Baixar dependências back-end: Após clonar a aplicação basta acessar a pasta <b>back-end</b> e rodar o comando `npm install` caso esteja utilizando node ou pode usar também `yarn` assim será baixando
 todas as dependências do projeto back-end
 
@@ -14,6 +20,13 @@ Após baixar as dependencias pode se utilizar os seguintes comandos `yarn start`
 # English:
 
 Be-The-Hero is a platform for ONG's where they can register requests for help such as donating dog food and other help.
+
+Before you can start cloning the project you need to have the following tools installed on your machine. systems. 
+- [NodeJS](https://nodejs.org/en/) or [Yarn](https://yarnpkg.com/)
+- [GitHub](https://git-scm.com/downloads) installed on your machine 
+
+
+- Run the following command in your `git clone terminal: https://github.com/DanielSandrin/be-the-hero.git` 
 
 1st: Download back-end dependencies: After cloning the application just access the folder <b>back-end</b> and run the command `npm install` if using node or you can also use `yarn` to download
 all the dependencies for the back-end project
