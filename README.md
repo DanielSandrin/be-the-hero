@@ -9,7 +9,7 @@ Antes de iniciar a clonagem do projeto é necessário ter instalado em sua máqu
 1ª Baixar dependências back-end: Após clonar a aplicação basta acessar a pasta <b>back-end</b> e rodar o comando `npm install` caso esteja utilizando node ou pode usar também `yarn` assim será baixando
 todas as dependências do projeto back-end
 
-Com todas as dependências baixadas basta executar o seguinte comando  `npm start` caso utilize node ou `yarn start` se estiver utilizar o yarn
+Com todas as dependências baixadas basta executar o seguinte comando  `npm run` caso utilize node ou `yarn run` se estiver utilizar o yarn
 
 2º Baixar dependências do front-end: Com o back-end pronto basta acessar a pasta front-end neste passo pode abrir direto no  <b> VSCode </b> ou outro editor que esteja
 utilizando. com o projeto aberto no seu editor acesse o termina do windows no diretório onde se contra o projeto front-end e execute os seguintes comandos:
